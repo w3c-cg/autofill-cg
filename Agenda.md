@@ -4,7 +4,7 @@
 
 ## April 1st, 2026
 * [Minutes](https://docs.google.com/document/d/1F388UMLNf9gIzN7Iwyu_Iy7PkpgHLV5j3URJy7DQJ2E/edit?usp=sharing)
-* Charter discussions
+* Charter discussions - [proposal](https://github.com/w3c-cg/autofill-cg/pull/3)
 
 ## March 4th, 2026
 * [Minutes](https://github.com/w3c-cg/autofill-cg/blob/main/meetings/2026-03-04.md)
