@@ -2,6 +2,9 @@
 
 [W3C Calendar meeting](https://www.w3.org/events/meetings/00ea5030-24a7-4869-861b-59d6729ded27/)
 
+## May 20th, 2026
+* Autofill Event - [TAG feedback](https://github.com/w3ctag/design-reviews/issues/1197#issuecomment-4443111167)
+
 ## April 1st, 2026
 * [Minutes](https://github.com/w3c-cg/autofill-cg/blob/main/meetings/2026-04-01.md)
 * Charter discussions - [proposal](https://github.com/w3c-cg/autofill-cg/pull/3)
