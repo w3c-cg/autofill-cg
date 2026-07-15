@@ -3,6 +3,7 @@
 [W3C Calendar meeting](https://www.w3.org/events/meetings/00ea5030-24a7-4869-861b-59d6729ded27/)
 
 ## July 16th, 2026
+* [Minutes](https://docs.google.com/document/d/1q54zxEEyl15SHp-OGyg4llW-DuD3H5zlLARCytk6oKc/edit?usp=sharing)
 * [no-autofill signal/expand autofill semantics](https://github.com/w3c-cg/autofill-cg/issues/2)
   
 ## May 20th, 2026
