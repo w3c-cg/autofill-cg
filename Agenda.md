@@ -2,6 +2,10 @@
 
 [W3C Calendar meeting](https://www.w3.org/events/meetings/00ea5030-24a7-4869-861b-59d6729ded27/)
 
+## September 2nd, 2026
+* [Minutes](https://docs.google.com/document/d/1ZFVRBmfgR_CrtgT1Yzc0YLS_NMSIqextcAO8y1sxQI8/edit?usp=sharing)
+* [Autofill Event experiment results](https://docs.google.com/presentation/d/1wtghSYKuoASf8lKY3ghMDk5G5QquBsU-wwI4JOxL590/edit?slide=id.p#slide=id.p)
+
 ## July 16th, 2026
 * [Minutes](https://docs.google.com/document/d/1q54zxEEyl15SHp-OGyg4llW-DuD3H5zlLARCytk6oKc/edit?usp=sharing)
 * [no-autofill signal/expand autofill semantics](https://github.com/w3c-cg/autofill-cg/issues/2)
