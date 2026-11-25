@@ -2,6 +2,10 @@
 
 [W3C Calendar meeting](https://www.w3.org/events/meetings/00ea5030-24a7-4869-861b-59d6729ded27/)
 
+## November 25th, 2026
+* [Minutes](https://docs.google.com/document/d/1y_LSg5ytGGBEIu2jm_UTfy6wwz0Az9y7ZEz-oqM9sII/edit?usp=sharing)
+* [Address components at Shopify](meeting_materials/2026-11-25-address-components-at-shopify-checkout.pdf)
+
 ## October 28th, 2026 - TPAC breakout
 * [Minutes](https://github.com/w3c-cg/autofill-cg/blob/main/meetings/2026-10-28-TPAC-breakout.md)
 
